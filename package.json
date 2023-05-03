@@ -1,5 +1,5 @@
 {
-  "name": "search",
+  "name": "cs50w-search--react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
